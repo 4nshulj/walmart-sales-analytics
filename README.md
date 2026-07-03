@@ -179,4 +179,4 @@ walmart-sales-analysis/
 ## 👤 Author
 **Anshul**
 Aspiring Data Analyst | Python · SQL · Power BI
-📧 [1311anshul@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/anshuljangra4/) 
+📧 [1311anshul@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/anshuljangra8/) 
